@@ -85,7 +85,7 @@ The dashboard provides a quick overview of:
 
 ## 📷 Dashboard Preview
 
-![Car Market & Pricing Analysis Dashboard](Dashboard_Screenshot.png)
+![Car Market & Pricing Analysis Dashboard](Car_dashboard.png)
 
 ## 📁 Project Files
 
