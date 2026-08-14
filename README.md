@@ -84,8 +84,7 @@ The dashboard provides a quick overview of:
 * Overall vehicle usage based on kilometers driven
 
 ## 📷 Dashboard Preview
-
-![Car Market & Pricing Analysis Dashboard](Car_dashboard.png)
+![Car Market & Pricing Analysis](Car-Dashboard.png)
 
 ## 📁 Project Files
 
